@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @kaungdev
- Sign out
-2,317
-57,838 25,640 github/gitignore
- Code  Pull requests 163  Projects 0  Insights
-gitignore/Swift.gitignore
-d31c40e  on Aug 23
-@FabrizioBrancati FabrizioBrancati Updating Swift.gitignore with Package.resolved
-@KrauseFx @shiftkey @FabrizioBrancati @czechboy0 @Coeur @adrfer @nwest @nrbrook @natestedman @martinblech @yanniks @evfemist @dbburgess @chrisamanse @modocache @commscheck @bbodenmiller @chenyufeng1991
-     
-69 lines (57 sloc)  1.43 KB
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
@@ -64,7 +46,7 @@ playground.xcworkspace
 # you should judge for yourself, the pros and cons are mentioned at:
 # https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control
 #
-Pods/
+# Pods/
 
 # Carthage
 #
@@ -84,15 +66,3 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
-© 2017 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
